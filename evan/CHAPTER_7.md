@@ -67,7 +67,7 @@
 ```json
 {
   "overdraftProtection": { // <-
-    "activ": true,
+    "active": true,
     "limit": 100,			
   },
 	"age": 3,
