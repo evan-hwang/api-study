@@ -1,7 +1,7 @@
 
 # api-study
 
-<img src="https://img.shields.io/badge/Study%20Status-Started-blue.svg" alt="Study Status: Started">
+<img src="https://img.shields.io/badge/Study%20Status-Started-black.svg" alt="Study Status: End">
 
 - Study type: 책 읽기
 - Study lead: evan
